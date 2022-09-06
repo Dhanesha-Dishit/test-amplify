@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-temptest-staging-54323-authRole",
+      "UnauthRoleArn": "arn:aws:iam::202636629342:role/amplify-temptest-staging-54323-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::202636629342:role/amplify-temptest-staging-54323-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-temptest-staging-54323-deployment",
+      "UnauthRoleName": "amplify-temptest-staging-54323-unauthRole",
+      "StackName": "amplify-temptest-staging-54323",
+      "StackId": "arn:aws:cloudformation:us-east-1:202636629342:stack/amplify-temptest-staging-54323/d29059d0-2da6-11ed-a727-0efa81048229",
+      "AmplifyAppId": "d14kgp6cpbundv"
+    }
+  }
+}
